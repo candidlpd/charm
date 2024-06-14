@@ -61,26 +61,3 @@ if __name__ == '__main__':
 
 
 
-
-# def rev2(list2):
-#     return list2.reverse()
-
-# def rev3(list3):
-#    res = reversed(list3)
-#    return "".join(res)
-
-
-# def rev4(list1):
-#     return list1[::-1]
-
-
-
-
-    # rev2s = rev2(list1)
-    # rev3s= rev3(list1)
-    # print(revs)
-    # print(rev2s)
-    # # print(rev3s)
-    #
-    # rev4s = rev4(list1)
-    # print(rev4s)
